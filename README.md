@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://pbs.twimg.com/media/GRKkYKnX0AAAcyZ?format=jpg&name=small" alt="MasterHead" width="800">
+</p>
 <h1 align="center">Hi 👋, I'm Aman Yadav</h1>
 <h3 align="center">A learner , thinker , problem solver !</h3>
 <img align="right" alt="Coding" height="280" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
