@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQG0PDcwzWL-Gw/profile-displaybackgroundimage-shrink_350_1400/0/1690704141983?e=1720656000&v=beta&t=9oo6mDEe2Hu0kDHh-XfucXLJC2Xn0s9RHV16CIqCs3E)
+![MasterHead]()
 <h1 align="center">Hi 👋, I'm Aman Yadav</h1>
 <h3 align="center">A learner , thinker , problem solver !</h3>
 <img align="right" alt="Coding" height="280" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
