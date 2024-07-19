@@ -11,9 +11,7 @@
 - 💬 Ask me about **MERN , Power BI**
 
 - 📫 How to reach me **Yadavaman2205@gmail.com**
-
--💻 My Portfolio **https://amanyadavportfolio.vercel.app/**
-
+- 📫 How to reach me **Yadavaman2205@gmail.com**
 - ⚡ Fun fact **I can find my way through now matter the situation is!**
 
 <h3 align="left">Connect with me:</h3>
